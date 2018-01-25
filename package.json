@@ -11,6 +11,10 @@
         "theme",
         "template"
     ],
+    "scripts": {
+        "start": "gulp dev",
+        "build": "gulp"
+    },
     "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
